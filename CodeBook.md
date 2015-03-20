@@ -1,17 +1,17 @@
 
- CODEBOOK
+ # CODEBOOK
  
  Subject	1 
-	Min. : 1.0 
-	Max. :30.0 
+  Min. : 1.0 
+  Max. :30.0 
  
  Activity 	7-18
-	WALKING
-	WALKING_UPSTAIRS
-	WALKING_DOWNSTAIRS
-	SITTING
-	STANDING
-	LAYING
+  WALKING
+  WALKING_UPSTAIRS
+  WALKING_DOWNSTAIRS
+  SITTING
+  STANDING
+  LAYING
  
  tBodyAcc-mean()-X
 	Min. :0.2216 
