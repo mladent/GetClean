@@ -3,11 +3,11 @@ Getting and Cleaning data 4 Coursera
 
 In this folder you can find 2 scripts:
 
-1) download_data.R
+## 1) download_data.R
 
 this script can be used to dowload the data from on-line repository
 
-2) run_analysis.R
+## 2) run_analysis.R
 
 Used to run the analysis on files
 
